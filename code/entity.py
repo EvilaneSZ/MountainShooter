@@ -9,3 +9,7 @@ class Entity:
 
     def move(self, ):
         pass
+
+
+def entity():
+    return None
